@@ -1,6 +1,6 @@
 # PremierLeagueTable
-- program to display the current premier league standings
+- Program to display the current premier league standings
 
-to run:
+To run:
 - pip install PrettyTable
 - python3 PL_Table.py
